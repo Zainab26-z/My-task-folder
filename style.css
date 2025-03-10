@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 30px;
+    font-family: sans-serif;
+    word-spacing: 5px;
+}
+
+.container {
+    width: 83%;
+    margin: auto;
+}
+
+/* now first give class to each section like here i give the box name first 4 */
+.box {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 1%;
+}
+
+img {
+    width: 400px;
+}
+
+
+#logo {
+    width: 30%;
+}
+
+.buttons {
+    width: 20%;
+}
+
+#left,
+#right,
+#left1,
+#right1,
+#left2,
+#right2 {
+    width: 47%
+}
+
+#box1 {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+#left4 {
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#right4 {
+    width: 50%;
+    position: absolute;
+    transform: translate(50%);
+    display: inline-block;
+    padding-bottom: 20%;
+}
+
+#mid4 {
+    width: 45%;
+    display: inline-block;
+
+
+}
+
+p {
+    color: rgb(129, 117, 117);
+}
+
+#footer {
+    text-align: center;
+    padding-top: 3%;
+    font-size: 20px;
+}
