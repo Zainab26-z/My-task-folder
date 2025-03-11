@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -6,11 +7,12 @@
 
 body {
     background-color: #fff;
-    font-family: Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 25px;
     word-spacing: 1px;
-    letter-spacing: 1px;
-    line-height: 1.5;
+    letter-spacing: 2px;
+    line-height: 1;
+    color: rgb(128, 119, 119);
 }
 
 .flex-container {
@@ -19,7 +21,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 20px;
+    
     
 }
 
@@ -35,7 +37,6 @@ body {
 #third_left,
 #forth_right {
     flex: 1;
-    padding: 20px;
     word-spacing: 3px;
     letter-spacing: 2px;
 }
