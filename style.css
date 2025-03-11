@@ -1,6 +1,4 @@
 
-
-
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +6,6 @@
 }
 
 body {
-    background-color: rgb(220, 212, 212);
     font-family: Arial, sans-serif;
     font-size: 20px;
     line-height: 1;
