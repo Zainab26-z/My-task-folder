@@ -8,9 +8,9 @@
 body {
     background-color: #fff;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 22px;
+    font-size: 16px;
     word-spacing: 1px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     line-height: 1;
     color: rgb(128, 119, 119);
 }
