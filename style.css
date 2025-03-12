@@ -8,10 +8,7 @@
 body {
     background-color: #fff;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 16px;
-    word-spacing: 1px;
-    letter-spacing: 1px;
-    line-height: 1;
+    font-size: 20px;
     color: rgb(128, 119, 119);
 }
 
@@ -37,8 +34,6 @@ body {
 #third_left,
 #forth_right {
     flex: 1;
-    word-spacing: 3px;
-    letter-spacing: 2px;
 }
 
 .center {
