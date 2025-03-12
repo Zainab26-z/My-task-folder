@@ -10,7 +10,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 25px;
     word-spacing: 1px;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     line-height: 1;
     color: rgb(128, 119, 119);
 }
@@ -47,6 +47,7 @@ body {
     align-items: center;
     text-align: center;
     padding: 10px;
+    flex-wrap: wrap;
 }
 
 /* Responsive Design */
